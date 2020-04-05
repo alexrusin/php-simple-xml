@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Technology]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Technology</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 03 Apr 2020 15:38:09 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: 'Not smart' memo shows Amazon's union stance]]></title>
+            <description><![CDATA[The firm's lawyer says his comments were personal, spoken out of emotional frustration.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52151161</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52151161</guid>
+            <pubDate>Fri, 03 Apr 2020 15:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoom 'unsuitable' for government secrets, researchers say]]></title>
+            <description><![CDATA[The meeting app used by Cabinet has odd encryption and sends data through China, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52152025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52152025</guid>
+            <pubDate>Fri, 03 Apr 2020 13:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Garden centres switch to virtual personal shopping]]></title>
+            <description><![CDATA[Plants are being sold via livestreams, emails and social media as lockdown forces traders to close.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52153475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52153475</guid>
+            <pubDate>Fri, 03 Apr 2020 14:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Google reveals travel habits during the pandemic]]></title>
+            <description><![CDATA[It will regularly provide updates as to what types of places people are going to during the outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52138076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52138076</guid>
+            <pubDate>Fri, 03 Apr 2020 06:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus threatens the next generation of smartphones]]></title>
+            <description><![CDATA[The latest smartphones might be delayed due to disrupted supply chains and shoppers staying at home.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52088327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52088327</guid>
+            <pubDate>Thu, 02 Apr 2020 23:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bafta Games Awards: Outer Wilds wins Best Game]]></title>
+            <description><![CDATA[Outer Wilds and Disco Elysium both win three golden masks at this year's Bafta Games Awards.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-52137938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-52137938</guid>
+            <pubDate>Thu, 02 Apr 2020 20:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoom boss apologises for security issues and promises fixes]]></title>
+            <description><![CDATA[The firm will freeze all new feature development to concentrate on fixing security and privacy issues.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52133349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52133349</guid>
+            <pubDate>Thu, 02 Apr 2020 12:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google uses AI to enhance video call audio]]></title>
+            <description><![CDATA[The new system realistically fills short gaps in conversations where drops previously occurred.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52138100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52138100</guid>
+            <pubDate>Thu, 02 Apr 2020 14:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon wins trademark battle over Davidoff perfume]]></title>
+            <description><![CDATA[European Court judges that Amazon is not responsible for a Marketplace seller's trademark infringement.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52135941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52135941</guid>
+            <pubDate>Thu, 02 Apr 2020 12:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How China's using surveillance to tackle outbreak]]></title>
+            <description><![CDATA[China is using its high tech system to tackle the outbreak, but is the state interference justified?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-52104798</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-52104798</guid>
+            <pubDate>Wed, 01 Apr 2020 23:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The robot car enforcing lockdown and other news]]></title>
+            <description><![CDATA[BBC Click's Omar Mehtab looks at the best of the week's technology stories.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52139171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52139171</guid>
+            <pubDate>Fri, 03 Apr 2020 06:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robot brings Hastings gallery art into people's homes]]></title>
+            <description><![CDATA[The Hastings Contemporary is offering virtual tours during the coronavirus lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-52136258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-52136258</guid>
+            <pubDate>Fri, 03 Apr 2020 05:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How robots have joined the battle against coronavirus]]></title>
+            <description><![CDATA[From taking temperatures remotely to helping with hand washing, robots are helping with healthcare.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52105478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52105478</guid>
+            <pubDate>Wed, 01 Apr 2020 06:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cello playing robot and other tech news]]></title>
+            <description><![CDATA[BBC Click's Paul Carter looks at some of the best tech stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52051835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52051835</guid>
+            <pubDate>Fri, 27 Mar 2020 22:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus lockdown: Clubbers go online for music]]></title>
+            <description><![CDATA[With the coronavirus lockdown bringing normal nightlife to an end, some enterprising DJs are going online.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52055789</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52055789</guid>
+            <pubDate>Sat, 28 Mar 2020 00:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houseparty: How safe is Epic Games' video chat app?]]></title>
+            <description><![CDATA[Security experts back owner's assertion that chat app is not hacking other products.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52112172</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52112172</guid>
+            <pubDate>Tue, 31 Mar 2020 17:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The phone slipped into the bath': Conference call tales]]></title>
+            <description><![CDATA[How to avoid some of the pitfalls of teleconferencing and how it is changing the way we meet and do business.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52032849</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52032849</guid>
+            <pubDate>Mon, 30 Mar 2020 23:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: The sports turning to gaming during lockdown]]></title>
+            <description><![CDATA[From boxing to Formula 1, sports are reinventing the way they are played during coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-52049893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-52049893</guid>
+            <pubDate>Thu, 26 Mar 2020 14:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Here's how you can stop bad information from going viral]]></title>
+            <description><![CDATA[Experts are calling on the public to practise ‘information hygiene’ to help stop the spread of falsehoods online.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-51967889</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-51967889</guid>
+            <pubDate>Fri, 27 Mar 2020 00:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are ventilators and why are they important?]]></title>
+            <description><![CDATA[The lives of some Covid-19 patients may depend upon medical ventilators - here are the basics of how they work.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52036948</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52036948</guid>
+            <pubDate>Mon, 30 Mar 2020 10:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Step-by-step guide: How to video call your family]]></title>
+            <description><![CDATA[This guide will show you how to make and receive video calls on a variety of devices.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-51968122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-51968122</guid>
+            <pubDate>Sun, 22 Mar 2020 00:43:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
