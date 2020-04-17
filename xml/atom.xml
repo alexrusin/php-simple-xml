@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+	xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+	<atom:content type="application/xml">
+		<m:properties>
+			<d:OrderId d:null="true"/>
+			<d:SalesOrg>1000</d:SalesOrg>
+			<d:DistChannel>20</d:DistChannel>
+			<d:Division>10</d:Division>
+			<d:DocumentType>ZWEB</d:DocumentType>
+			<d:Currency>USD</d:Currency>
+			<d:Email>
+				<![CDATA[alex@email.com]]>
+			</d:Email>
+			<d:TaxJurCode>XX0000000</d:TaxJurCode>
+			<d:Tax>21.37</d:Tax>
+			<d:CouponCode>
+				<![CDATA[]]>
+			</d:CouponCode>
+			<d:ShipCondition>
+				<![CDATA[U4]]>
+			</d:ShipCondition>
+			<d:PONumber>#1176</d:PONumber>
+			<d:OrderReason m:null="true"/>
+			<d:Freight>0.00</d:Freight>
+			<d:SoldToId>0000200000</d:SoldToId>
+			<d:ShipToId>0000200000</d:ShipToId>
+			<d:BillToId>0000200000</d:BillToId>
+			<d:SoldToName>
+				<![CDATA[Alex]]>
+			</d:SoldToName>
+			<d:SoldToName2>
+				<![CDATA[TEst]]>
+			</d:SoldToName2>
+			<d:SoldToStreet>
+				<![CDATA[123 Address]]>
+			</d:SoldToStreet>
+			<d:SoldToStreet2>
+				<![CDATA[Suite 111]]>
+			</d:SoldToStreet2>
+			<d:SoldToCity>
+				<![CDATA[Some City]]>
+			</d:SoldToCity>
+			<d:SoldToRegion>
+				<![CDATA[CA]]>
+			</d:SoldToRegion>
+			<d:SoldToPostalCode>11119</d:SoldToPostalCode>
+			<d:SoldToCountry>US</d:SoldToCountry>
+			<d:ShipToName>
+				<![CDATA[Alex]]>
+			</d:ShipToName>
+			<d:ShipToName2>
+				<![CDATA[TEst]]>
+			</d:ShipToName2>
+			<d:ShipToStreet>
+				<![CDATA[1234 Adress]]>
+			</d:ShipToStreet>
+			<d:ShipToStreet2>
+				<![CDATA[Suite 111]]>
+			</d:ShipToStreet2>
+			<d:ShipToCity>
+				<![CDATA[Some City]]>
+			</d:ShipToCity>
+			<d:ShipToRegion>
+				<![CDATA[CA]]>
+			</d:ShipToRegion>
+			<d:ShipToPostalCode>91111</d:ShipToPostalCode>
+			<d:ShipToCountry>US</d:ShipToCountry>
+			<d:BillToName>
+				<![CDATA[Alex]]>
+			</d:BillToName>
+			<d:BillToName2>
+				<![CDATA[TEst]]>
+			</d:BillToName2>
+			<d:BillToStreet>
+				<![CDATA[123 Address]]>
+			</d:BillToStreet>
+			<d:BillToStreet2>
+				<![CDATA[Suite 111]]>
+			</d:BillToStreet2>
+			<d:BillToCity>
+				<![CDATA[Some City]]>
+			</d:BillToCity>
+			<d:BillToRegion>
+				<![CDATA[CA]]>
+			</d:BillToRegion>
+			<d:BillToPostalCode>11119</d:BillToPostalCode>
+			<d:BillToCountry>US</d:BillToCountry>
+			<d:SoldToPhone></d:SoldToPhone>
+			<d:ShipToPhone>+13433433434</d:ShipToPhone>
+			<d:BillToPhone></d:BillToPhone>
+			<d:BillingBlock m:null="true"/>
+			<d:DeliveryBlock></d:DeliveryBlock>
+			<d:ShippingInstructions>
+				<![CDATA[]]>
+			</d:ShippingInstructions>
+			<d:DiscountConditionType></d:DiscountConditionType>
+			<d:Discount>0</d:Discount>
+			<d:GiftCardConditionType></d:GiftCardConditionType>
+			<d:GiftCardAmount>0</d:GiftCardAmount>
+		</m:properties>
+	</atom:content>
+	<atom:link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ToItem" title="ToItem" type="application/atom+xml;type=feed">
+		<m:inline>
+			<atom:feed>
+				<atom:entry>
+					<atom:content type="application/xml">
+						<m:properties>
+							<d:OrderId d:null="true"/>
+							<d:Item>000010</d:Item>
+							<d:Material>2000087</d:Material>
+							<d:Plant>1300</d:Plant>
+							<d:Quantity>2</d:Quantity>
+							<d:FullConfirmationDate m:null="true"/>
+							<d:UoM>EA</d:UoM>
+							<d:ReqDate>2020-03-16T00:00:00</d:ReqDate>
+							<d:Price>15.00</d:Price>
+							<d:ReturnsCategory m:null="true"/>
+							<d:PackingList></d:PackingList>
+							<d:DiscountConditionType></d:DiscountConditionType>
+							<d:Discount>0</d:Discount>
+						</m:properties>
+					</atom:content>
+				</atom:entry>
+				<atom:entry>
+					<atom:content type="application/xml">
+						<m:properties>
+							<d:OrderId d:null="true"/>
+							<d:Item>000020</d:Item>
+							<d:Material>2000672</d:Material>
+							<d:Plant>1300</d:Plant>
+							<d:Quantity>1</d:Quantity>
+							<d:FullConfirmationDate m:null="true"/>
+							<d:UoM>EA</d:UoM>
+							<d:ReqDate>2020-03-16T00:00:00</d:ReqDate>
+							<d:Price>195.00</d:Price>
+							<d:ReturnsCategory m:null="true"/>
+							<d:PackingList></d:PackingList>
+							<d:DiscountConditionType></d:DiscountConditionType>
+							<d:Discount>0</d:Discount>
+						</m:properties>
+					</atom:content>
+				</atom:entry>
+			</atom:feed>
+		</m:inline>
+	</atom:link>
+</atom:entry>
